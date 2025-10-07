@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm **Supratim Mukherjee**
 
 ## 🚀 Data Scientist | Data Analyst  
-🎓 **M.Sc. in Data Science** (2023–2025)  
+🎓 **M.Sc. in Data Science (2023–2025)**  
 📍 Kolkata, India  
 
 ---
 
 ### 🧠 About Me  
-I’m a passionate **Data Science student** skilled in **Python, SQL, Power BI, and Machine Learning**, with hands-on experience in **Deep Learning** and **Generative AI**.  
-I love building **end-to-end data solutions** — from **data ingestion and cleaning** to **model deployment and dashboarding** — transforming raw data into actionable insights.  
+I’m a passionate **Data Science student** skilled in **Python, SQL, Power BI**, and **Machine Learning**, with hands-on experience in **Deep Learning** and **Generative AI**.  
+I love building **end-to-end data solutions** — from **data ingestion and model development** to **dashboarding and deployment** — turning data into meaningful business insights.  
 
 > “Data tells a story — you just need to listen carefully.”
 
@@ -25,27 +25,15 @@ I love building **end-to-end data solutions** — from **data ingestion and clea
 
 ### 💼 Featured Projects  
 
-📩 **[E-mail Spam Classifier](https://github.com/supra2001/E-mail-Spam-Classifier)**  
-A real-time spam detection web app using NLP and ML, deployed via Streamlit.  
-- 97% model accuracy (Multinomial Naive Bayes)  
-- Text preprocessing with NLTK & TF-IDF vectorization  
-- Dynamic UI for live predictions  
-- [Live App](https://e-mail-spam-classifier-jx8b2r3bnmnf93la9clz3n.streamlit.app/)  
+📩 **[Email Spam Classifier](https://github.com/supra2001/E-mail-Spam-Classifier)** — Real-time email/SMS spam detection app using NLP & ML, deployed via Streamlit (97% accuracy).  
 
-📊 **[Vendor Performance Analysis](#)**  
-End-to-end project integrating Python, SQL & Power BI.  
-- Automated CSV ingestion → SQLite database creation  
-- KPI computation (Profit Margin, Turnover Ratio, Vendor Efficiency)  
-- Interactive Power BI dashboard + PDF reporting  
+👗 **[Fashion Recommender System](#)** — Personalized fashion outfit recommendations using ML-based similarity and user preference modeling.  
 
-🚖 **[Ola Dashboard Project](#)**  
-Analyzed ride-hailing data using SQL & Power BI.  
-- Insights on booking trends, cancellations, and ratings  
-- SQL queries, views & aggregations for decision support  
-- Visual storytelling dashboard for performance tracking  
+🧑‍💻 **[Real-Time Face Recognition-Based Attendance System](#)** — Automated attendance system using OpenCV and face recognition libraries for real-time tracking.  
 
-👗 **[Fashion Recommender System](#)**  
-Recommendation engine that personalizes fashion suggestions using similarity-based filtering and ML techniques.  
+💬 **[YouTube ChatBot](#)** — AI-powered conversational chatbot leveraging YouTube transcript data using NLP and Generative AI.  
+
+📱 **[WhatsApp Chat Analyzer](#)** — Python-based data analysis tool to visualize chat patterns, message frequencies, and sentiment insights.  
 
 ---
 
