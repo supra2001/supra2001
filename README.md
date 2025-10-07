@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Supratim Mukherjee**
 
->  Aspiring Data Scientist | Python • SQL • ML • Power BI • Generative AI | Building actionable insights from data
+>  Data Scientist | Python • SQL • ML • Power BI • Generative AI | Building actionable insights from data
 
 ## 🚀 About Me
 - Passionate about building **end-to-end data solutions** from data ingestion to model deployment.  
@@ -27,19 +27,19 @@
 Real-time email/SMS spam detection using NLP & ML (Multinomial Naive Bayes, 97% accuracy).  
 **Tech Stack:** Python, NLTK, TF-IDF, Streamlit | Processed 10k+ emails  
 
-👗 **[Fashion Recommender System](#)**  
+👗 **[Fashion Recommender System](https://github.com/supra2001/Fashion-Recommender-System)**  
 Personalized outfit recommendation engine using ML similarity algorithms.  
 **Tech Stack:** Python, Pandas, Scikit-learn | Increased engagement in test dataset by 20%  
 
-🧑‍💻 **[Real-Time Face Recognition-Based Attendance System](#)**  
+🧑‍💻 **[Real-Time Face Recognition-Based Attendance System](https://github.com/supra2001/Real-Time-Face-Recognition-Based-Attendance)**  
 Automated attendance tracking using face recognition in real-time.  
 **Tech Stack:** Python, OpenCV, face_recognition | Accuracy: 95%+ in testing  
 
-💬 **[YouTube ChatBot](#)**  
+💬 **[YouTube ChatBot](https://github.com/supra2001/YouTube-ChatBot)**  
 AI-powered chatbot that answers queries from YouTube transcript data using NLP & Generative AI.  
 **Tech Stack:** Python, Transformers, LangChain | Handled 1k+ user queries  
 
-📱 **[WhatsApp Chat Analyzer](#)**  
+📱 **[WhatsApp Chat Analyzer](https://github.com/supra2001/Whatsapp-Chat-Analyzer)**  
 Analyzes WhatsApp chat data for patterns, frequencies, and sentiment insights.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn | Visualized trends for >5k messages  
 
